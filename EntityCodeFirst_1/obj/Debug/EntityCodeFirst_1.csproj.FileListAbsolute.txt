@@ -1,0 +1,53 @@
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.exe.config
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.exe
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.pdb
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.dll
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.xml
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Properties.Resources.resources
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.UrunEkle.resources
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.GenerateResource.cache
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.CoreCompileInputs.cache
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.CopyComplete
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.exe
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.pdb
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.FormGiris.resources
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.FormGiris.resources
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Properties.Resources.resources
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.UrunEkle.resources
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.GenerateResource.cache
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.CoreCompileInputs.cache
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.exe
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.pdb
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.exe.config
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.exe
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.pdb
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.dll
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.xml
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.CopyComplete
+C:\Users\mine-\Desktop\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Migrations.First.resources
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Migrations.First.resources
+C:\Users\mine-\Desktop\örnekler\repos\EntityCodeFirst\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Migrations.Second.resources
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.exe.config
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.exe
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityCodeFirst_1.pdb
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.dll
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.xml
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csprojAssemblyReference.cache
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.FormGiris.resources
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Migrations.First.resources
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Migrations.Second.resources
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.Properties.Resources.resources
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.UrunEkle.resources
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.GenerateResource.cache
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.CoreCompileInputs.cache
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.csproj.CopyComplete
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.exe
+C:\Users\mine-\Desktop\Githuba Atılacaklar\EntityCodeFirst_1\EntityCodeFirst_1\obj\Debug\EntityCodeFirst_1.pdb
